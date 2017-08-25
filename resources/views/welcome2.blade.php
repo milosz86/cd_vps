@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Jakiś teścik Git'a
+                    Jakiś Kant
                 </div>
 
                 <div class="links">
