@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mochikanin UBER
+                    Jakiś teścik Git'a
                 </div>
 
                 <div class="links">
