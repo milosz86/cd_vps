@@ -79,11 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Jakiś Kant
+                    Nowa Wersja dziadostwa
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Noobtation</a>
+                    <a href="https://laravel.com/docs">NoobTalking</a>
                     <a href="https://laracasts.com">LaraThing</a>
                     <a href="https://laravel-news.com">NewDefinitions</a>
                     <a href="https://forge.laravel.com">Forging</a>
